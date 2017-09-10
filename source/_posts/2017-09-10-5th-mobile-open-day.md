@@ -1,7 +1,7 @@
 ---
 title: 第五期 Mobile Open Day
 date: 2017-09-10 23:35:28
-tags:
+tags: Mobile Open Day
 ---
 
 Hi 小伙伴们， 
