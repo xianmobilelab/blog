@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[第四届 Mobile Open Day]]></title>
+      <url>/2017/09/10/4th-mobile-open-day/</url>
+      <content type="html"><![CDATA[<p>Hi 艾瑞巴蒂</p>
+<p>经过近半个月的精心准备，由移动社区组织的第四届 Mobile Open Day，于 2017 年 3 月 26 日在西安办公室举行。本次活动的主题为：小步构建移动开发知识网络。在各位讲师的积极配合，各位志愿者的大力协助下，本次活动圆满结束，并获得了很多反馈，进一步促进了西安移动社区的发展与交流。</p>
+<p>这次活动的话题分享收到了很积极的反馈，session 包含移动布局、移动测试、新型语言等，都是来自目前移动市场上最热门、最前瞻的话题，内容得到了大家的肯定。</p>
+<h2 id="签到-amp-破冰"><a href="#签到-amp-破冰" class="headerlink" title="签到 &amp; 破冰"></a>签到 &amp; 破冰</h2><p>活动开始前，由耐心的杨楠晨和孙恬静两位小伙伴为大家指引签到，扫码，赠送小礼品。在所有参加活动的人员进场以后，美丽的主持人绿菊闪亮登场，在对活动进行了简单的介绍后，开始了举办者们精心设计的破冰游戏——肢体信息传递，小伙伴们在欢笑声中快速的融入了现场的氛围。带着欢乐的气氛，我们迎来了最重要的环节——sessions。</p>
+
+<h2 id="三生三世iOS布局"><a href="#三生三世iOS布局" class="headerlink" title="三生三世iOS布局"></a>三生三世iOS布局</h2><p>第一个话题是由 AAP 唯一女仙 —— 燕子带来的关于 iOS 布局的分享。</p>
+<h2 id="移动测试的Mock实践"><a href="#移动测试的Mock实践" class="headerlink" title="移动测试的Mock实践"></a>移动测试的Mock实践</h2><p>第二个话题是由QA大牛 —— 五一带来的关于移动测试的分享。</p>
+<h2 id="Getting-Started-with-Kotlin-in-Android"><a href="#Getting-Started-with-Kotlin-in-Android" class="headerlink" title="Getting Started with Kotlin in Android"></a>Getting Started with Kotlin in Android</h2><p>第三个话题是由 Android 工程师 —— 帅哥与智勇 pair 为大家带来关于 Kotlin 的分享。</p>
+<p>可以看出来观众对讲师们带来的话题都非常感兴趣，不只在 QA 环节积极提问，在活动的最后还主动和讲师进行了相关的讨论，并且还互相留下了联系方式~ 由此可见大家的热情度非常之高~</p>
+<h2 id="抽奖"><a href="#抽奖" class="headerlink" title="抽奖"></a>抽奖</h2><p>在活动的最后，终于到了最激动人心的抽奖环节啦~ 我们通过反馈抽奖的形式，为参与活动的小伙伴们分发了我们精心准备的礼物~~ 看到我们的礼物是不是很期待？那快来参加下次的 Mobile Open Day 吧~！</p>
+<h2 id="致谢"><a href="#致谢" class="headerlink" title="致谢"></a>致谢</h2><p>感谢 Marketing 团队: 杜鑫 何颖 海侠<br>感谢讲师们: 李燕子 秦五一 张帅 王智勇<br>感谢组织者们: 樊炜 杨楠晨<br>感谢志愿者们: 王绿菊 陈曦宇 孙恬静 欧阳英杰 张舰<br>感谢 Admin 团队为我们提供各种设备支持</p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> Mobile Open Day </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>/2017/09/10/hello-world/</url>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+      
+        
+    </entry>
+    
+  
+  
+</search>
