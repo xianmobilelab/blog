@@ -79,3 +79,6 @@ theme: material-flow
 deploy:
   type: git
   repo: https://github.com/xianmobilelab/xianmobilelab.github.io.git
+
+# Disqus
+disqus_shortname: xian-mobile-community
