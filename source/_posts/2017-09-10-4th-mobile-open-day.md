@@ -21,12 +21,16 @@ Hi 艾瑞巴蒂
 
 第一个话题是由 AAP 唯一女仙 —— 燕子带来的关于 iOS 布局的分享。
 
+视频: http://www.itdks.com/dakalive/detail/784
+
 {% asset_img 4.jpg "" %}
 {% asset_img 5.jpg "" %}
 
 ## 移动测试的Mock实践
 
 第二个话题是由QA大牛 —— 五一带来的关于移动测试的分享。
+
+视频: http://www.itdks.com/dakalive/detail/782
 
 {% asset_img 6.jpg "" %}
 {% asset_img 7.jpg "" %}
@@ -35,6 +39,8 @@ Hi 艾瑞巴蒂
 ## Getting Started with Kotlin in Android
 
 第三个话题是由 Android 工程师 —— 帅哥与智勇 pair 为大家带来关于 Kotlin 的分享。
+
+视频: http://www.itdks.com/dakalive/detail/781
 
 {% asset_img 9.jpg "" %}
 {% asset_img 10.jpg "" %}
