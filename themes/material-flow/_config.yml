@@ -19,7 +19,7 @@ search:
 # friends link
 links:
   - name: RSS
-    url: https://xianmobilelab.github.io/atom.xml
+    url: http://xianmobile.com/atom.xml
   - name: Github
     url: https://github.com/xianmobilelab
   - name: ThoughtWorks

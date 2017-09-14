@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://xianmobilelab.github.io
+url: http://xianmobile.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -78,7 +78,8 @@ theme: material-flow
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/xianmobilelab/xianmobilelab.github.io.git
+  repo: 
+    coding: git@git.coding.net:xianmobilelab/xianmobilelab.git
 
 # Disqus
 disqus_shortname: xian-mobile-community
