@@ -11,12 +11,14 @@ before_install:
   - "npm install -g hexo-cli"
   - "npm install"
 
-script: "hexo deploy -g"
+script: "echo Hello Xi'an Mobile"
 
 addons:
   ssh_known_hosts: git.coding.net
 
-branches:
-  only:
-    - "master"
+deploy:
+  provider: script
+  script: hexo deploy -g
+  on:
+    branch: master
 
