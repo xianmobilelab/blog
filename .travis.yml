@@ -13,3 +13,6 @@ before_install:
 
 script: "hexo deploy -g"
 
+addons:
+  ssh_known_hosts: git.coding.net
+
