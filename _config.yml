@@ -81,5 +81,3 @@ deploy:
   repo: 
     coding: git@git.coding.net:xianmobilelab/xianmobilelab.git
 
-# Disqus
-disqus_shortname: xian-mobile-community
