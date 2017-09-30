@@ -1,0 +1,15 @@
+language: node_js
+
+node_js:
+  - "6"
+
+before_install:
+  - "openssl aes-256-cbc -K $encrypted_923379cab9d3_key -iv $encrypted_923379cab9d3_iv -in .travis/xianmobileblog.enc -out .travis/xianmobileblog -d"
+  - "chmod 600 .travis/xianmobileblog"
+  - "eval $(ssh-agent)"
+  - "ssh-add .travis/xianmobileblog"
+  - "npm install -g hexo-cli"
+  - "npm install"
+
+script: "hexo deploy -g"
+
