@@ -21,4 +21,5 @@ deploy:
   script: hexo deploy -g
   on:
     branch: master
+  skip_cleanup: true
 
