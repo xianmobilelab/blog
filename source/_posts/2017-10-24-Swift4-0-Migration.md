@@ -4,7 +4,7 @@ date: 2017-10-24 20:44:32
 tags: iOS
 ---
 > 作者: 郭鑫
-> 原文: [https://gx-blog.herokuapp.com/2017/10/22/Swift4-0-Migration/](https://gx-blog.herokuapp.com/2017/10/22/Swift4-0-Migration/)
+> 原文: [http://blog.emagrorrim.com/2017/10/22/Swift4-0-Migration/](http://blog.emagrorrim.com/2017/10/22/Swift4-0-Migration/)
 
 {% asset_img swift-4.png "" %}
 
