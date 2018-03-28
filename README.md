@@ -24,7 +24,7 @@ hexo new the-post-title
 ## How to use image resource in post?
 
 1. When you create a new post, you also can see a same name directory in `source/_posts`
-1. Please put the image into this directory. such as `source/_posts/my-image.png`
+1. Please put the image into this directory. such as `source/_posts/your-post/my-image.png`
 1. put this one into your post `{% asset_img my-image.png "" %}`
 
 ## Keep consistent
